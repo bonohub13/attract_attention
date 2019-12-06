@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/attention2msg.dir/src/attention2msg.cpp.o  -o attention2msg 
